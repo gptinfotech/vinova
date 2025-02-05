@@ -44,7 +44,7 @@
                             <div class="dropdown-menu bg-light mt-2">
                                 <a href="#" class="dropdown-item">Experienced Professionals</a>
                                 <a href="#" class="dropdown-item">Early Careers</a>
-                                <a href="#" class="dropdown-item">Enroll for Internship & Training</a>
+                                <a href="#" class="dropdown-item">Internship Programs</a>
                             </div>
                         </div>
                         <a href="contact.html" class="nav-item nav-link">Contact</a>
